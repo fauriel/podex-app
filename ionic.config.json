@@ -1,0 +1,7 @@
+{
+  "name": "podex-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
